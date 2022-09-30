@@ -101,7 +101,7 @@
   margin:20px 0px 40px;
 }
 #project a{
-  display: block;
+  display: inline-block;
   width:170px;
   height:50px;
   background-color:#10c9c3;
