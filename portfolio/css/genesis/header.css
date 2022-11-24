@@ -9,7 +9,7 @@ header>.wrap{
 header>.wrap>nav{
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 100vw;
   line-height: 100px;
   background-color: rgba(0, 0, 0, 0.7);
   padding: 0 100px 0 80px;
